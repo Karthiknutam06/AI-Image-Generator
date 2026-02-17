@@ -1,6 +1,9 @@
 # AI-Image-Generator
 
-![Uploading image.png…]()
+## 📸 Project Screenshot
+
+![Project Screenshot](images/project-ui.png)
+
 
 
 
