@@ -1,6 +1,7 @@
 # AI-Image-Generator
 
-![Screenshot_4](https://github.com/Cosaslearning/AI-Image-Generator/assets/100014446/d4925357-f48c-4788-bc70-64623871a8fb)
+![Uploading image.png…]()
+
 
 
 This project is a simple AI Image Generator web application that allows users to generate AI images based on a provided text prompt. It leverages the OpenAI API to create images and offers the option to download them. The project consists of HTML, CSS, and JavaScript code. Below, we have provided an optimized version of the code with comments to explain each step. 
