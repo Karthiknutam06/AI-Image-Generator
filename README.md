@@ -4,7 +4,9 @@
 
 ![Project Screenshot](images/project-ui.png)
 
+## project live demo 
 
+https://karthiknutam06.github.io/AI-Image-Generator/
 
 
 This project is a simple AI Image Generator web application that allows users to generate AI images based on a provided text prompt. It leverages the OpenAI API to create images and offers the option to download them. The project consists of HTML, CSS, and JavaScript code. Below, we have provided an optimized version of the code with comments to explain each step. 
